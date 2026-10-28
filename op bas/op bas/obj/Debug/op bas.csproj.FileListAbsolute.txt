@@ -1,0 +1,8 @@
+C:\Users\moren\Documents\Proyecto-SharpDevelop\op bas\op bas\obj\Debug\op bas.csprojResolveAssemblyReference.cache
+C:\Users\moren\Documents\Proyecto-SharpDevelop\op bas\op bas\obj\Debug\op_bas.MainForm.resources
+C:\Users\moren\Documents\Proyecto-SharpDevelop\op bas\op bas\obj\Debug\op bas.csproj.GenerateResource.Cache
+C:\Users\moren\Documents\Proyecto-SharpDevelop\op bas\op bas\bin\Debug\op bas.exe
+C:\Users\moren\Documents\Proyecto-SharpDevelop\op bas\op bas\bin\Debug\op bas.pdb
+C:\Users\moren\Documents\Proyecto-SharpDevelop\op bas\op bas\obj\Debug\op bas.exe
+C:\Users\moren\Documents\Proyecto-SharpDevelop\op bas\op bas\obj\Debug\op bas.pdb
+C:\Users\moren\Documents\Proyecto-SharpDevelop\op bas\op bas\obj\Debug\op_bas.Form1.resources
